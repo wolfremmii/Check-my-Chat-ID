@@ -1,4 +1,4 @@
-# 🌤 WeatherCheckBot
+# Check my Chat ID
 
 This simple Telegram bot allows you to find your `chat_id` by sending the `/start` command.
 ## How to Use
